@@ -1,0 +1,2 @@
+Your Quadratic Equation is: 1.0X^2 + 5.0X + 6.0 = 0
+We got two real solutions, which are -2.0 and -3.0
